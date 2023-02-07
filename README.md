@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Antony Barge</h1>
 <h3 align="center">A mobile developer from France</h3>
 
-- 🔭 I’m currently working on [an AI-driven-cars mobile app](http://github.com/AntonyBARGE/ai_driven_cars)
+- 🔭 I’m currently working on [a music platfrom app](https://github.com/AntonyBARGE/music_platform)
 
 - 🌱 I’m currently learning **Flutter**
 
