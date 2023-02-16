@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Antony Barge</h1>
 <h3 align="center">A mobile developer from France</h3>
 
-- 🔭 I’m currently working on [a music platfrom app](https://github.com/AntonyBARGE/music_platform)
+- 🔭 I’m currently working on [a dog list app](https://github.com/AntonyBARGE/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **flutter_bloc, animations and clean architecture**
 
 - 📫 How to reach me **antony.barge@gmail.com**
 
