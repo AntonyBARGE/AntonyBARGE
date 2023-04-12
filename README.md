@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Antony Barge</h1>
 <h3 align="center">A mobile developer from France</h3>
 
-- 🔭 I’m currently working on [a dog list app](https://github.com/AntonyBARGE/doggydex)
+- 🔭 I’m currently working on [a weather app](https://github.com/AntonyBARGE/MeteoApp)
 
 - 🌱 I’m currently learning **flutter_bloc, animations and clean architecture**
 
